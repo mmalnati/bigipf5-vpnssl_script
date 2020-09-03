@@ -1,4 +1,4 @@
-<h1>Script for create vpn SSL users for the APM module of BIG-IP F5 via shell</h1>
+<h1>Script for creating vpn SSL users for the APM module of BIG-IP F5 via shell</h1>
 
 The script automates the process of sign up the users, and configure the instance, groups, etc.
 You can add more options to the command.
