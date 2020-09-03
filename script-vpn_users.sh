@@ -26,7 +26,7 @@ ldbutil --add --uname="$UNAME" --password="$PASSWORD" --instance="$INSTANCE" --u
 
 #On screen you will see the progress of each user, and his configuration
 
-echo -e "Creando usuario \e[1;31m ${UNAME} \e[0m con grupo \e[94m ${USERGROUPS}\e[0m con el mail \e[95m${EMAIL}\e[0m en instancia \e[96m${INSTANCE}\e[0m"
+echo -e "Creating user \e[1;31m ${UNAME} \e[0m in the group \e[94m ${USERGROUPS}\e[0m with the email \e[95m${EMAIL}\e[0m and the instance \e[96m${INSTANCE}\e[0m"
 
 done
 ################################################################
