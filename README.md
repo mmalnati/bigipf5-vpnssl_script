@@ -51,13 +51,13 @@ file: data.txt
 
 I think most of the fields in the file you can get the idea what are they, but I will describe them just to be sure everyone understand them:
 
->username: user name (he!)
->/Common/instance: instance of the user
->123456789: password
->group: group (hehe!)
->0: The number of login failure attempts for the uname
->0: Force the user to change their password 0 or 1 default 0 no password change required
->0: The user's access locked out status 0 or 1 default 0 not locked out
+- username: user name (he!)
+- /Common/instance: instance of the user
+- 123456789: password
+- group: group (hehe!)
+- 0: The number of login failure attempts for the uname
+- 0: Force the user to change their password 0 or 1 default 0 no password change required
+- 0: The user's access locked out status 0 or 1 default 0 not locked out
 
 
 
