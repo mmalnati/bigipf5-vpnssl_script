@@ -1,5 +1,4 @@
 # /bin/bash
-#
 #Script for create vpn SSL users for the APM module of BIG-IP F5 via shell
 
 #Verify you are "root"
