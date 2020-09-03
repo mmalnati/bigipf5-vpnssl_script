@@ -4,7 +4,7 @@
 #Verify you are "root"
 WHOAMI=`/usr/bin/whoami`
 if [ $WHOAMI != "root" ]; then
-echo "Hay que ser root para poder correr el script!"
+echo "You must be root to run this script!"
 exit 1
 fi
 ##############################################################
