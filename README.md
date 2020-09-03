@@ -59,5 +59,5 @@ I think most of the fields in the file you can get the idea what are they, but I
 - 0: Force the user to change their password 0 or 1 default 0 no password change required
 - 0: The user's access locked out status 0 or 1 default 0 not locked out
 
-
+💬 If you have questions or suggest changes, leave a messege [here](https://github.com/mmalnati/bigipf5-vpnssl_script/issues)
 
